@@ -6,6 +6,13 @@ import requests
 from bs4 import BeautifulSoup
 import time
 
+#Some Symbols for testing
+# Indian Stocks (NSE):
+# TCS.NS, RELIANCE.NS, HDFCBANK.NS, INFY.NS, WIPRO.NS, TATAMOTORS.NS, HINDUNILVR.NS, ICICIBANK.NS, BHARTIARTL.NS, ADANIENT.NS
+# US Stocks:
+# AAPL, MSFT, GOOGL, AMZN, TSLA, NVDA, META, NFLX, KO, MCD
+
+
 # Set API Key
 openai.api_key ="x55QExGmhWwvSx7Sh72HovSG92d7E_3uTmCGS7y2VkU"
 
